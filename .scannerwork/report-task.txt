@@ -1,0 +1,7 @@
+organization=oriana02
+projectKey=oriana02_Cuidarte
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.108771
+dashboardUrl=https://sonarcloud.io/dashboard?id=oriana02_Cuidarte
+ceTaskId=AaDpnkkzjM6leqsDQM52
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AaDpnkkzjM6leqsDQM52
